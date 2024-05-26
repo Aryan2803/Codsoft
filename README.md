@@ -21,15 +21,6 @@ I aimed to create a predictive model for movie ratings.
 Iris Flower Classification Description: The Iris Flower Classification project is a classic machine learning task. It involves using the Iris dataset to classify
 iris flowers into different species based on their sepal and petal measurements.
 
-## Task 4: Sales Prediction using Python
-
-Sales Prediction using Python Description: This project focuses on predicting sales for a business. It includes data preprocessing, exploratory data analysis,
-and the development of a predictive model to forecast future sales.
-
-## Task 5: Credit Card Fraud Detection
-
-The final task revolved around Credit Card Fraud Detection, a critical application of machine learning in finance. I implemented models to identify fraudulent
-transactions, contributing to the ongoing efforts to enhance financial security. 
 
 ## Conclusion
 The Codsoft Data Science Internship has been an enriching experience, providing me with the skills and knowledge to tackle real-world data challenges.
